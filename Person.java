@@ -26,6 +26,6 @@ public class Person {
     }
     public String setPassword(String password) {
         this.password = password;
-        return "Password set successfully";
+        return "Password set!";
     }
 }
