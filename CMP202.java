@@ -7,11 +7,11 @@ public class CMP202 {
     void printUserDetails() {
         age = 23;
         height = 172;
-        name = "Dan-Codes";
+        name = "Abdul";
         name.length();
-        password = "User@123";
+        password = "Yusufhamid123";
         if (password.contains("123") || password.contains("User")) {
-            System.out.println("Password is not strong enough");
+            System.out.println("Password is not strong");
         }
     }    
 }
